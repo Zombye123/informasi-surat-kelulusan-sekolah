@@ -1,20 +1,6 @@
-<p align="center"><a href="https://github.com/zifaucode/cek-lulus" target="_blank"><img src="https://user-images.githubusercontent.com/33486013/164989084-586c08af-43ea-4f59-93dd-54f25f22c830.png" width="900"></a></p>
 
-<p align="center">
-<a href="https://trakteer.id/zifau"><img src="https://img.shields.io/static/v1?label=Trakteer&message=zifaucode&color=C02433"></a>
-</p>
 
-<b>Fork dan Star ⭐ jika ini membantu ♥️</b>
 
-# Index
-- **[Tentang CEK-LULUS](#tentang-cek-lulus)**
-- **[CARA INSTALL](#cara-install)**
-- **[USER PASSWORD](#user-password)**
-- **[NOTED](#noted)**
-- **[TRAKTIR KOPI](#traktir-kopi)**
-
-<br>
-<br>
 
 ## Tentang CEK-LULUS
 
